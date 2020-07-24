@@ -6,6 +6,11 @@
 
 ### 同义词
 
+#### 非常的
+
+* extremely
+* highly
+
 #### 大量的(地)，大多数的（地），数量很多的（地）
 
 * in flocks
@@ -541,3 +546,23 @@
 ##### farther和further区别
 
 further表示抽象的远
+
+
+
+##### as
+
+* 作为
+* v + ... + as
+* as + 句子 （当...的时候；像...一样；虽然，但是；as引导的定语从句，as代表一个句子）
+
+
+
+##### than
+
+* not so much as = not even (甚至不/没有)
+
+* not so much A as B 与其说A倒不如说B
+* more A than B 与其说B不如说A
+* more than 
+  * 后加名词 （不仅仅是）
+  * 后加形容词/副词（非常...）
