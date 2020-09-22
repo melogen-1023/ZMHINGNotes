@@ -16,6 +16,8 @@
 * in flocks
 * in bulk
 * array
+* a mass of
+* plentiful
 
 
 
@@ -75,6 +77,7 @@
 * correspond to
 * accord with
 * coherent
+* coincide
 
 #### 卓越的，杰出的，非凡的，不寻常的，异常的，特殊的，特有的
 
@@ -105,7 +108,9 @@
 * slope
 * incline
 
+#### 必然的，不可避免的
 
+* inevitable
 
 #### 脆弱的，易受伤的
 
@@ -154,7 +159,9 @@
 
 * urgent
 
+#### 迅速的，立刻的
 
+* prompt
 
 #### 繁荣（的），兴隆（的）
 
@@ -198,6 +205,7 @@
 * cultivate
 * rear
 * boost
+* breed
 
 
 
@@ -288,7 +296,6 @@
 #### 成立，设立
 
 * constitute
-* 
 
 
 
@@ -538,6 +545,13 @@
 * in spite of
 * nonetheless
 * regardless of
+
+
+
+#### 缺乏，不足
+
+* scarce
+* shortage
 
 
 
