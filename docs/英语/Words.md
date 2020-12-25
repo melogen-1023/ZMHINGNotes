@@ -39,6 +39,17 @@
 * sole
 * army
 * keep abreast of
+* surgery
+* relieve
+* release
+* statistic
+* census
+* fatigue
+* commit
+* resign
+* frustrate
+* discard
+* discourage
 
 
 
